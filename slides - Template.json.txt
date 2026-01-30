@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {
+      "type": "text",
+      "url": "https://YOUR_ONEDRIVE_LINK/text/UpcomingEvents.txt",
+      "qr": "https://YOUR_ONEDRIVE_LINK/expanded/EventsFullDetails.pdf"
+    },
+    {
+      "type": "image",
+      "url": "https://YOUR_ONEDRIVE_LINK/images/EventFlyer.png",
+      "qr": "https://YOUR_ONEDRIVE_LINK/expanded/EventFlyerDetails.pdf"
+    },
+    {
+      "type": "pdf",
+      "url": "https://YOUR_ONEDRIVE_LINK/pdf/SafetyGuide.pdf",
+      "qr": "https://YOUR_ONEDRIVE_LINK/expanded/SafetyDeepDive.pdf"
+    }
+  ]
+}
