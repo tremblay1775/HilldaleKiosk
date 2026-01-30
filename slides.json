@@ -2,32 +2,33 @@
   "slides": [
     {
       "type": "text",
-      "url": "https://1drv.ms/t/c/994dba9b5987f2a9/IQCVMHAbhgUbRqziqUnroqVMAZ4B-VaMIgwZ51p9sr0-3pY?e=ZvnTTb",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/text/05RulesAndRegs.txt",
     },
     {
       "type": "text",
-      "url": "https://1drv.ms/t/c/994dba9b5987f2a9/IQDON3gHIwVZSpXoJxduuI5BAZBuo9BsMnJRQxNN2_8Uajc?e=t2dG7T",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/text/06UpcomingEvents.txt",
     },
     {
       "type": "image",
-      "url": "https://1drv.ms/i/c/994dba9b5987f2a9/IQBtsdXIx4frRa21T2PHULEJAcx-ypPrsRDnvxIzfjsFFjo?e=26gUIZ",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/01SlideA.PNG",
     },
     {
       "type": "image",
-      "url": "https://1drv.ms/i/c/994dba9b5987f2a9/IQAPCA_5FacVToPTNvap8YUcAQfRXU5sQBUTExBqGDnb7aM?e=3N8Yfa",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/02SlideB.PNG",
     },
     {
       "type": "image",
-      "url": "https://1drv.ms/i/c/994dba9b5987f2a9/IQBccmwxeCkRTY_KI2EkGkzxASuzOF_NKHb9T8P-NVOAXCo?e=ViH8Bp",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/03SlideC.PNG",
     },
     {
       "type": "image",
-      "url": "https://1drv.ms/i/c/994dba9b5987f2a9/IQBccmwxeCkRTY_KI2EkGkzxASuzOF_NKHb9T8P-NVOAXCo?e=ViH8Bp",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/04SlideD.PNG",
     },
     {
       "type": "pdf",
-      "url": "https://1drv.ms/b/c/994dba9b5987f2a9/IQCjObciAMUHR6TrJofesXlQAQa3p_ThPSltcVJY7KHNyZs?e=BLvJ2b",
-      "qr": "https://1drv.ms/b/c/994dba9b5987f2a9/IQD92PnB3N6KSI7rGuBiqqdHAShE9Dko6ap_6qkvAlme80A?e=WADAtu"
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/pdf/2112619002.pdf",
+      "qr": "https://tremblay1775.github.io/HilldaleKiosk/expanded/OCR_2167923rules___regs_part_1_of_2_2016.pdf"
     }
   ]
+
 }
