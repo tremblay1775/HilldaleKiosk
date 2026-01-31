@@ -2,27 +2,27 @@
   "slides": [
     {
       "type": "text",
-      "url": "https://tremblay1775.github.io/HilldaleKiosk/text/05RulesAndRegs.txt",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/text/05RulesAndRegs.txt"
     },
     {
       "type": "text",
-      "url": "https://tremblay1775.github.io/HilldaleKiosk/text/06UpcomingEvents.txt",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/text/06UpcomingEvents.txt"
     },
     {
       "type": "image",
-      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/01SlideA.PNG",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/01SlideA.PNG"
     },
     {
       "type": "image",
-      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/02SlideB.PNG",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/02SlideB.PNG"
     },
     {
       "type": "image",
-      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/03SlideC.PNG",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/03SlideC.PNG"
     },
     {
       "type": "image",
-      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/04SlideD.PNG",
+      "url": "https://tremblay1775.github.io/HilldaleKiosk/images/04SlideD.PNG"
     },
     {
       "type": "pdf",
@@ -30,5 +30,4 @@
       "qr": "https://tremblay1775.github.io/HilldaleKiosk/expanded/OCR_2167923rules___regs_part_1_of_2_2016.pdf"
     }
   ]
-
 }
