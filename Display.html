@@ -127,7 +127,7 @@ async function start() {
     showSlide();
 
     setInterval(async () => {
-        slides = await loadManifest(); // refresh manifest
+        slides = (await loadManifest()).slides; // refresh manifest
         showSlide();
     }, SLIDE_DURATION);
 }
