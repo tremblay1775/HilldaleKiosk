@@ -70,7 +70,7 @@ async function loadManifest() {
         return data;
     } catch (e) {
         console.error("Error loading manifest:", e);
-        return [];
+        return null;
     }
 }
 
@@ -123,11 +123,15 @@ async function showSlide() {
 
 // Main loop
 async function start() {
-    slides = (await loadManifest()).slides;
+    const manifest = await loadManifest();
+    slides = manifest ? manifest.slides : [];
     showSlide();
 
     setInterval(async () => {
-        slides = (await loadManifest()).slides; // refresh manifest
+        const manifest = await loadManifest();
+        if (manifest && manifest.slides && manifest.slides.length > 0) {
+            slides = manifest.slides;   // only update on success
+        }
         showSlide();
     }, SLIDE_DURATION);
 }
