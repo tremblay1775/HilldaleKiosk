@@ -123,7 +123,7 @@ async function showSlide() {
 
 // Main loop
 async function start() {
-    slides = await loadManifest();
+    slides = (await loadManifest()).slides;
     showSlide();
 
     setInterval(async () => {
