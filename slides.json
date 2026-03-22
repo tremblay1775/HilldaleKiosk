@@ -1,0 +1,44 @@
+{"slides": [
+    {
+      "type": "image",
+      "url": "images/01SlideA.PNG",
+      "duration": 10,
+      "qr": null
+    },
+    {
+      "type": "image",
+      "url": "images/02SlideB.PNG",
+      "duration": 10,
+      "qr": null
+    },
+    {
+      "type": "image",
+      "url": "images/03SlideC.PNG",
+      "duration": 10,
+      "qr": null
+    },
+    {
+      "type": "image",
+      "url": "images/04SlideD.PNG",
+      "duration": 10,
+      "qr": null
+    },
+    {
+      "type": "image",
+      "url": "images/OCR_2167923rules___regs_part_1_of_2_2016_Page1.png",
+      "duration": 10,
+      "qr": null
+    },
+    {
+      "type": "text",
+      "url": "text/05RulesAndRegs.txt",
+      "duration": 10,
+      "qr": null
+    },
+    {
+      "type": "text",
+      "url": "text/06UpcomingEvents.txt",
+      "duration": 10,
+      "qr": null
+    }
+]}
