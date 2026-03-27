@@ -129,6 +129,7 @@ async function start() {
 
     setInterval(async () => {
         const manifest = await loadManifest();
+        console.log("REFRESH MANIFEST:", manifest);
         if (manifest && manifest.slides && manifest.slides.length > 0) {
             slides = manifest.slides;   // only update on success
         }
