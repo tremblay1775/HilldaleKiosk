@@ -1,8 +1,10 @@
-{"slides": [
+{
+  "slides": [
     {
       "type": "image",
-      "url": "images/OCR_2167923rules___regs_part_1_of_2_2016_Page1.png",
+      "file": "images/OCR_2167923rules___regs_part_1_of_2_2016_Page1.png",
       "duration": 10,
       "qr": "https://tremblay1775.github.io/HilldaleKiosk/expanded/OCR_2167923rules___regs_part_1_of_2_2016.pdf"
     }
-]}
+  ]
+}
